@@ -1,16 +1,33 @@
-## Hi there 👋
 
-<!--
-**Jalblooshi/Jalblooshi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+# Hi, I'm Jawaher Alblooshi 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🇦🇪 Emirati Student | Innovator | AI Enthusiast
+
+I'm passionate about the intersection of Artificial Intelligence, Business, Engineering, and Leadership.
+
+I enjoy turning ideas into innovative solutions and exploring how technology can create meaningful impact.
+
+###  What I'm interested in
+- Artificial Intelligence & Business
+- Robotics and Engineering
+- Innovation and Entrepreneurship
+- Leadership and Public Speaking
+
+###  Explore My Work
+
+📁 [My Technical Portfolio](https://github.com/Jalblooshi/my-technical-portfolio)
+
+###  Selected Recognition
+- Youngest Female Presenter — ADU COE Hackathon 2023
+- Best Innovation Badge — IFEST 2023
+- 6th Place — ADU COE Hackathon 2023
+- 5th Place — ADU COE Hackathon 2024
+- 1st Place — Aoun Award, Fujairah
+
+###  Currently Exploring
+Python | Artificial Intelligence | Robotics | GitHub
+
+---
+
+*Always curious. Always creating. Always learning.*
